@@ -10,7 +10,7 @@ A passionate IT Support Technician.
 
 - 💬 Ask me about **IT support, embedded systems, Java, Python, Arduino programming, and network troubleshooting**
 
-- 📫 How to reach me **ansarianzer8@gmail.com**
+- 📫 How to reach me **ansarianzer8@gmail.com or 4374302052**
 
 - ⚡ Fun fact **I built a digital logic circuit board as an educational tool and managed warehouse operations lifting over 120 lbs daily!**
 
