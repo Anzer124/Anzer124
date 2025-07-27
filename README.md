@@ -4,6 +4,7 @@
 💞️ I’m looking to collaborate on a Traffic Light Simulation Project
 📫 You can reach me via email at ansarianzer8@gmail.com or by phone at 437-430-2052
 ⚡ Fun fact: I was a professional cyclist back in my country
+
 **Academic Projects 
 Arduino Programmer**                                                                                                                                               
 I developed a program that ran on an Arduino microcontroller, which was connected to a computer through a PSOC. Using jumper wires and a USB connector, the setup interfaced with a digital LED display to print outputs. This project demonstrated my ability to integrate hardware and software, ensuring seamless communication between components.
