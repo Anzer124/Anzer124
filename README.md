@@ -1,9 +1,18 @@
-👋 Hi, I’m @Anzer124
-👀 I’m interested in becoming a Computer Technician
-🌱 I have recently completed the Computer Engineering Technician program at Sheridan College
-💞️ I’m looking to collaborate on a Traffic Light Simulation Project
-📫 You can reach me via email at ansarianzer8@gmail.com or by phone at 437-430-2052
-⚡ Fun fact: I was a professional cyclist back in my country
+👋 Hi, I’m Mohammed Anzer Ansari
+A passionate IT Support Technician.
+- 🔭 I’m currently working on **Arduino Embedded Systems & IoT Projects**
+
+- 🌱 I’m currently learning **ReactJS, Microsoft Azure, VMware, Jira Agile, and advanced IoT integrations**
+
+- 👯 I’m looking to collaborate on **Web Development & IT Support Automation Tools**
+
+- 🤝 I’m looking for help with **Advanced Network Security & Cloud Infrastructure Projects**
+
+- 💬 Ask me about **IT support, embedded systems, Java, Python, Arduino programming, and network troubleshooting**
+
+- 📫 How to reach me **ansarianzer8@gmail.com**
+
+- ⚡ Fun fact **I built a digital logic circuit board as an educational tool and managed warehouse operations lifting over 120 lbs daily!**
 
 **Academic Projects 
 Arduino Programmer**                                                                                                                                               
